@@ -2,9 +2,10 @@
 
 [![Coverage Status][1]][2]
 
-New Relic's official Couchbase version 2.6.x instrumentation for use with the
-[Node agent](https://github.com/newrelic/node-newrelic). This module is a
-dependency of the agent and is installed with it by running:
+# New Relic JavaScript Instrumentation for Couchbase
+
+Couchbase version 2.6.x instrumentation for use with the [Node agent](https://github.com/newrelic/node-newrelic).
+This module is a dependency of the agent and is installed with it by running:
 
 ```sh
 npm install git+https://github.com/newrelic-experimental/newrelic-node-couchbase
